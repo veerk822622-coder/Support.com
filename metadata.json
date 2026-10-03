@@ -1,0 +1,6 @@
+{
+  "name": "Maha Sell AI Support",
+  "description": "Production-ready AI customer support agent for Maha Sell with real-time order verification, cashback & payment troubleshooting, screenshot analysis, and human escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
